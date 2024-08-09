@@ -1,0 +1,36 @@
+f04dd6c Wilgimol Thomas 2024-08-09 Delete git_log.txt
+cda465b Wilgimol Thomas 2024-08-09 Update git_log.txt
+57b869a Wilgimol Thomas 2024-08-09 Create git_log.txt
+5f8f77b Wilgimol Thomas 2024-08-09 Create AgroRentHubOrderManagementCompleted.zip
+0c515a5 Wilgimol Thomas 2024-08-07 Create AgroRentHubOrderManangement2.zip
+8346d2e Wilgimol Thomas 2024-08-05 Order Management admin side is fine supplier sideview delivery boy view
+5ae72a9 Wilgimol Thomas 2024-08-04 Create AgroRentHubOderAssigbyAdmin.zip
+3eb391e Wilgimol Thomas 2024-08-03 Create AgroRentHubProductDetailsPageadded.zip
+cb48b61 Wilgimol Thomas 2024-08-02 Create AgroRentHubPaymentCartCorrected.zip
+16c72a5 Wilgimol Thomas 2024-08-02 Create AgroRentHubPaymentAndCartdateSettingDone.zip
+1d10d0d Wilgimol Thomas 2024-07-31 Create AgroRentHubPaymentFun&outstockButt.zip
+0597fe7 Wilgimol Thomas 2024-07-31 Create AgroRentHubPaymentFunfrmUsersideCompleted.zip
+533315f Wilgimol Thomas 2024-07-30 Create AgroRentHubFor1stReview.zip
+c90d5d7 Wilgimol Thomas 2024-07-24 Cart item Expiry and Supplier adding Deliveryboy
+496a394 Wilgimol Thomas 2024-07-21 Create AgroRentHubDeliveryProfilandPlaceOrderSet.zip
+5054b85 Wilgimol Thomas 2024-07-16 Create AgroRentHubCartFunctionalityHalf.zip
+3e2878f Wilgimol Thomas 2024-07-16 Create AgroRentHubSortbypriceorname.zip
+68ef652 Wilgimol Thomas 2024-07-16 Create AgroRentHubSearchFunctionalityimplemented.zip
+e8e4909 Wilgimol Thomas 2024-07-16 Create AgroRentHubCategorywisefiltering.zip
+b65bd5e Wilgimol Thomas 2024-07-16 Create AgroRentHubdeletesweetalertallset.zip
+1053479 Wilgimol Thomas 2024-07-16 Create AgroRentHubFilteroption.zip
+7491bb0 Wilgimol Thomas 2024-07-16 Create AgroRentHubSignginwithgoogle.zip
+7105249 Wilgimol Thomas 2024-07-16 Create AgroRentHubsupplierprofile.zip
+a642da7 Wilgimol Thomas 2024-07-16 Create AgroRentHubotpset.zip
+175d91e Wilgimol Thomas 2024-07-16 Create AgroRentHubForgotpasswordPerfect.zip
+4c9a2b3 Wilgimol Thomas 2024-07-16 Create AgroRentHubForgotPassword.zip
+98c1fae Wilgimol Thomas 2024-07-07 UML Diagrams
+e2649b9 Wilgimol Thomas 2024-07-07 Database Design
+3907540 Wilgimol Thomas 2024-07-07 Requirement Gathering
+cc7f192 Wilgimol Thomas 2024-07-07 Delete RequirementsGathering.pdf
+872ba77 Wilgimol Thomas 2024-07-07 Add files via upload
+993684b Wilgimol Thomas 2024-06-15 Feasibility Study for AgroRent Hub
+1b42c17 Wilgimol Thomas 2024-06-15 Delete Abstract .pdf
+5987cad Wilgimol Thomas 2024-06-15 Project Abstract
+1555ba7 Wilgimol Thomas 2024-06-15 Abstract File for The Project
+45bc194 Wilgimol Thomas 2024-06-15 Initial commit
